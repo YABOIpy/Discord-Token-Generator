@@ -7,7 +7,7 @@
 Discord Token gen for devs who need a template
 Made by YABOI#7377 & payfloww#9359
 ```
-https://discord.gg/dwncord
+https://discord.gg/downcord
 ________________________________
 
 ```
