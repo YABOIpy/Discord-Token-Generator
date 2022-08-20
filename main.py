@@ -1,1 +1,5 @@
-print("coming soon at 30 stars")
+""" Starts FlowGen """
+
+import handler
+
+handler.commands()
