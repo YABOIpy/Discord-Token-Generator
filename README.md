@@ -21,7 +21,7 @@ how to use
 ```
 built in hcaptcha bypass
 using threads for high speeds
-it is able to generate unlocked tokens
+it is able to generate unlocked tokens if u fix it ;)
 just be a good dev u skid
 join gg/downcord for a unlocked gen
 ```
