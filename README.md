@@ -1,6 +1,6 @@
 # Flow-Gen-Discord-Token-Generator
 <p align="center">
-    RELEASE AT 30 STARS
+   
 </p>
 
 ```
